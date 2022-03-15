@@ -1,0 +1,69 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.feature-row{
+  margin:10% 15%;
+  color:hsl(0, 0%, 95%);
+  text-align:left;
+
+}
+.feature-card-1{
+  background-color:hsl(31, 77%, 52%);
+  padding:50px 93px 50px 50px;
+}
+.feature-card-2{
+  background-color:hsl(184, 100%, 22%);
+  padding:50px 93px 50px 50px;
+}
+.feature-card-3{
+  background-color:hsl(179, 100%, 13%);
+  padding:50px 93px 50px 50px;
+}
+.card-image {
+  width:30%;
+}
+.c-title{
+  font-family: 'Big Shoulders Display', cursive;
+  margin-top:50px;
+}
+.c-paragraph{
+  font-family: 'Lexend Deca', sans-serif;
+  font-size:15px;
+  color:hsla(0, 0%, 100%, 0.75);
+  margin-top:50px;
+  margin-bottom:100px;
+}
+
+.c-btn-1{
+  width:80%;
+  font-size:15px;
+  font-weight:500;
+  color:hsl(31, 77%, 52%);
+}
+.c-btn-1:hover{
+  background-color:hsl(31, 77%, 52%);
+  color:hsl(0, 0%, 95%);
+}
+.c-btn-2{
+  width:80%;
+  font-size:15px;
+  font-weight:500;
+  color:hsl(184, 100%, 22%);
+}
+.c-btn-2:hover{
+  background-color:hsl(184, 100%, 22%);
+  color:hsl(0, 0%, 95%);
+}
+.c-btn-3{
+  width:80%;
+  font-size:15px;
+  font-weight:500;
+  color:hsl(179, 100%, 13%);
+}
+.c-btn-3:hover{
+  background-color:hsl(179, 100%, 13%);
+  color:hsl(0, 0%, 95%);
+}
+
+body{
+  background-color:hsl(0, 0%, 95%);
+}
